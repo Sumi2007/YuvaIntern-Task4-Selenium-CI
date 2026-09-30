@@ -40,7 +40,7 @@ YuvaIntern-Task4-Selenium-CI
 │
 ├── pom.xml
 ├── testng.xml
-└── testngSmoke.xml
+└── testng-smoke.xml
 
 
 ## Environment Configuration
